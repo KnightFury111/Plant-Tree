@@ -118,20 +118,6 @@ nav {
 }
 
 
-.about-sec {
-    padding: 150px 0;
-    background-color: #e6edff;
-}
-
-.about-sec img {
-    width: 350px;
-    border: 5px solid #303054;
-    border-radius: 5px;
-}
-
-.about-sec .about-txt p {
-    font-size: 18px;
-}
 
 
 .don-sec {
@@ -168,6 +154,7 @@ nav {
 
 /* Missions */
 .mission {
+    margin-top: 400px;
     padding: 200px 0;
 }
 
